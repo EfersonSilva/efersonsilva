@@ -1,4 +1,22 @@
-### Hi there 👋
+# Welcome!
+
+ 
+
+## I'm Eferson!
+
+:computer: I'm Full-Stack Developer!
+:books: I’m currently learning everything.
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EfersonSilva?tab=repositories)](https://github.com/EfersonSilva?tab=repositories)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/eferson-silva/)](https://www.linkedin.com/in/eferson-silva/)
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
 
 <!--
 **EfersonSilva/efersonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
