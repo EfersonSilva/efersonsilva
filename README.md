@@ -7,7 +7,9 @@
 :computer: I'm Full-Stack Developer!
 :books: I’m currently learning everything.
 
-👨👩 Social 🔝
+----------------------------------------------------------------------------------
+👨👩 Social <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
+<div style="display: inline_block">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EfersonSilva?tab=repositories)](https://github.com/EfersonSilva?tab=repositories)
 
@@ -19,7 +21,7 @@
 
 - Thanks for visiting.
 - Enjoy it!! o/
-
+----------------------------------------------------------------------------------
 ## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
 <div style="display: inline_block">
   <img align="center" alt="Eferson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">               <img align="center" alt="Eferson-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
@@ -29,23 +31,10 @@
   <img align="center" alt="Eferson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eferson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
-- 💻 Atualmente Trabalho com C#, Asp.Net Core e Framework, Angular, com Arquitetura Hexagonal, CQRS e Design DDD. 
+- 💻 I Currently Work with C#, Asp.Net Core e Framework, Angular, Architecture Hexagonal, CQRS e Design DDD. 
 
-- 📚 Estudando Linguagens: C#, Angular, JavaScript, TypeScript e Golang.
+- 📚 Learning Languages: C#, Angular, JavaScript, TypeScript e Golang.
 
--  📚 Estudando DevOps: CI/CD.
+-  📚 Learning DevOps: CI/CD.
 
-<!--
-**EfersonSilva/efersonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------------------------------
