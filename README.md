@@ -7,7 +7,7 @@
 :computer: I'm Full-Stack Developer!
 :books: I’m currently learning everything.
 
-## About me
+👨👩 Social 🔝
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EfersonSilva?tab=repositories)](https://github.com/EfersonSilva?tab=repositories)
 
@@ -15,7 +15,9 @@
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eferson-silva/)](https://www.linkedin.com/in/eferson-silva/)
 - Thanks for visiting.
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white : #efersonds@gmail.com
 - Enjoy it!! o/
+
 
 
 <!--
