@@ -8,7 +8,7 @@
 :books: I’m currently learning everything.
 
 ----------------------------------------------------------------------------------
-👨👩 Social <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
+## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
 <div style="display: inline_block">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EfersonSilva?tab=repositories)](https://github.com/EfersonSilva?tab=repositories)
