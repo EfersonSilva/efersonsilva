@@ -13,9 +13,11 @@
 
 
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eferson-silva/)](https://www.linkedin.com/in/eferson-silva/)
-- Thanks for visiting.
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : #efersonds@gmail.com
+
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : #efersonds@gmail.com
+
+- Thanks for visiting.
 - Enjoy it!! o/
 
 
