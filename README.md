@@ -8,6 +8,22 @@
 <br>
 :books: I’m currently learning everything.
 
+ <div>
+  <a href="https://github.com/EfersonSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EfersonSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfersonSilva&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Eferson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">               <img align="center" alt="Eferson-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
+  <img align="center" alt="Eferson-AngularJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Eferson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Eferson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eferson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Eferson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+
 ----------------------------------------------------------------------------------
 ## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
 <div style="display: inline_block">
