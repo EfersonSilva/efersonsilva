@@ -21,13 +21,13 @@
 - Enjoy it!! o/
 
 ## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Point_Down.gif?raw=true" width="12px">
 - 💻 Atualmente Trabalho com C#, Asp.Net Core e Framework, Angular, com Arquitetura Hexagonal, CQRS e Design DDD. 
 
 - 📚 Estudando Linguagens: C#, Angular, JavaScript, TypeScript e Golang.
+
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Eferson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Eferson-AngularJs" height="30" width="40" src="https://raw.github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
 </div>
 
 -  📚 Estudando DevOps: CI/CD.
