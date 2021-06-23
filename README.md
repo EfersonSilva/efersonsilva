@@ -25,10 +25,10 @@
 
 - 📚 Estudando Linguagens: C#, Angular, JavaScript, TypeScript e Golang.
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
   <img align="center" alt="Eferson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Eferson-AngularJs" height="30" width="40" src="https://raw.github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-</div>
+  <img align="center" alt="Eferson-AngularJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+</div><br>
 
 -  📚 Estudando DevOps: CI/CD.
 
