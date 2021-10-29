@@ -4,7 +4,7 @@
 
 ## I'm Eferson!
 
-:computer: I'm Full-Stack Developer!
+:computer: I'm Back-end Developer!
 <br>
 :books: I’m currently learning everything.
 
