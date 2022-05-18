@@ -29,7 +29,7 @@
 
  - 💻 I Currently Work with C#, Asp.Net Core e Framework, Angular, Architecture Hexagonal, CQRS e Design DDD. 
 
-- 📚 Learning Languages: C#, Angular, JavaScript, TypeScript e Golang.
+- 📚 Learning Languages: C#, Angular, JavaScript, TypeScript and Golang.
 
 -  📚 Learning DevOps: CI/CD.
 
